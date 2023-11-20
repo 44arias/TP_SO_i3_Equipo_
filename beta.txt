@@ -98,3 +98,7 @@ Wireless LAN adapter Wi-Fi:
    Default Gateway . . . . . . . . . : 192.168.0.1
 
 Hora: 16:37:40 20/11/2023
+ Nombre y Apellido: Yamila Sueldo
+Información del ipconfig: 
+ipconfig
+Hora: Mon Nov 20 16:51:30     2023
