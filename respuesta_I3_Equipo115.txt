@@ -1,0 +1,7 @@
+a. Después de realizar los cambios y merges, contiene los archivos: CPUAlfa, CPUBeta, CPUGamma, readme, beta.txt y datos.txt con sus respectivos contenidos.
+b. Sí, Beta pudo ver todos los cambios que se realizaron. Git maneja la gestión de ramas y permite que los colaboradores vean los cambios realizados en otras ramas.
+c. En el punto 5, Beta debe realizar los siguientes comandos para hacer el merge:
+
+git checkout master
+git merge GAMMA
+git commit -m "Merge de la rama GAMMA"
