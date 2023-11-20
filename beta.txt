@@ -66,3 +66,35 @@ Ejemplos:
     > ipconfig /allcompartments /all ... Muestra informaci¢n detallada sobre
                                          todos los compartimientos
 Hora actual: %time%
+
+Alumno: Agustin Di Leone
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::43e0:cc30:8c9a:936c%6
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : fibertel.com.ar
+   Link-local IPv6 Address . . . . . : fe80::c966:3759:df29:eae2%19
+   IPv4 Address. . . . . . . . . . . : 192.168.0.17
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Hora: 16:37:40 20/11/2023
