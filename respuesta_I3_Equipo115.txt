@@ -19,3 +19,20 @@ f. Los comandos realizados para cumplir el punto 7 son:
    git add beta.txt
    git commit -m "Modificaciones realizadas por GAMMA en beta.txt"
    git push origin Arias
+g.Para resolver el punto 8, los pasos fueron:
+  1) Iniciar git
+  git init
+  2)Clonar el repositorio remoto y asegurame de estar en el directorio indicado.
+  git clone https://github.com/44arias/TP_SO_i3_Equipo_
+  cd TP_SO_i3_Equipo_
+  3) Me muevo a la rama de GAMMA
+  git checkout -b Arias origin/Arias
+  4)Modifico el archivo beta.txt
+  echo Nombre y apellido: Yamila Sueldo >> beta.txt
+  echo Información de ifconfig: >> beta.txt
+  ifconfig >> beta.txt
+  echo Hora: Mon Nov 20 18:30:28 2023 >> beta.txt
+  5) Agrego el archivo modificado, realizo el commit y push para subir los cambios al repositorio remoto
+  git add beta.txt
+  git commit -m Alfa modifica beta.txt
+  git push origin Arias
