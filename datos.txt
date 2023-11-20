@@ -1,5 +1,9 @@
 Alumno: Agustion Di Leone
 IP: 192.168.0.17
-Hora: 19:55:24 14/11/2023 Alumna: Yamila Sueldo
+Hora: 19:55:24 14/11/2023 
+Alumna: Yamila Sueldo
 IP: 192.168.56.1
 Hora: 14:09:10  20/11/2023
+Alumno: Valentino Arias	
+IP: 192.168.98.1
+Hora: 15:54:21 20/11/2023
