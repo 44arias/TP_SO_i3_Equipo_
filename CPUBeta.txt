@@ -1,0 +1,54 @@
+Nombre de host:                            DESKTOP-IGBCBF7
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versi¢n del sistema operativo:             10.0.19045 N/D Compilaci¢n 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              4
+Organizaci¢n registrada:                   
+Id. del producto:                          00330-80000-00000-AA246
+Fecha de instalaci¢n original:             9/9/2023, 18:31:28
+Tiempo de arranque del sistema:            20/11/2023, 14:22:27
+Fabricante del sistema:                    To Be Filled By O.E.M.
+Modelo el sistema:                         To Be Filled By O.E.M.
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 23 Model 17 Stepping 0 AuthenticAMD ~3500 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. P4.70, 12/2/2018
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume2
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         en-us;Ingl‚s (Estados Unidos)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria f¡sica:          15.290 MB
+Memoria f¡sica disponible:                 10.257 MB
+Memoria virtual: tama¤o m ximo:            17.594 MB
+Memoria virtual: disponible:               11.084 MB
+Memoria virtual: en uso:                   6.510 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-IGBCBF7
+Revisi¢n(es):                              4 revisi¢n(es) instaladas.
+                                           [01]: KB5011048
+                                           [02]: KB5015684
+                                           [03]: KB5029331
+                                           [04]: KB5029709
+Tarjeta(s) de red:                         2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.34
+                                                 [02]: fe80::5fa9:4a24:7313:f750
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.98.1
+                                                 [02]: fe80::8807:fb75:7fdb:e71c
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
