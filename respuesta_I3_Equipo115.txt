@@ -1,7 +1,21 @@
+Alumnos: Yamila Sueldo, Valentino Arias y Agustin Di Leone
+
 a. Después de realizar los cambios y merges, contiene los archivos: CPUAlfa, CPUBeta, CPUGamma, readme, beta.txt y datos.txt con sus respectivos contenidos.
 b. Sí, Beta pudo ver todos los cambios que se realizaron. Git maneja la gestión de ramas y permite que los colaboradores vean los cambios realizados en otras ramas.
 c. En el punto 5, Beta debe realizar los siguientes comandos para hacer el merge:
-
 git checkout master
 git merge GAMMA
 git commit -m "Merge de la rama GAMMA"
+
+d. Sí, las ramas creadas por BETA (Arias) y GAMMA (DiLeone) quedan actualizadas con los datos que cada uno modificó en sus respectivas ramas.
+e. No, no tuvimos ningun problema al hacer marge.
+f. Los comandos realizados para cumplir el punto 7 son:
+   Descargar el repositorio en la rama creada por BETA (Arias):
+   git clone https://github.com/44arias/TP_SO_i3_Equipo_.git
+   cd TP_SO_i3_Equipo_
+   git checkout -b Arias origin/Arias
+   notepad beta.txt
+   (Agregue la info requerida usando ipconfig en otra terminal)
+   git add beta.txt
+   git commit -m "Modificaciones realizadas por GAMMA en beta.txt"
+   git push origin Arias
